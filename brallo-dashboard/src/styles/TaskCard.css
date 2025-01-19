@@ -1,0 +1,15 @@
+.task-card {
+    background-color: #e3f2fd;
+    border: 1px solid #bbdefb;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.card-title {
+    font-size: 18px;
+    color: #1e88e5;
+}
+.card-description {
+    font-size: 14px;
+    color: #555;
+}

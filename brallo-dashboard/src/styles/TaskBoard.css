@@ -1,0 +1,16 @@
+.task-board {
+    padding: 20px;
+    background-color: #f4f4f4;
+    min-height: 100vh;
+}
+.board-title {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.lists-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
